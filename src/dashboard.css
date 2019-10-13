@@ -1,0 +1,11 @@
+.list-group{
+    padding-right:4%;
+    border-radius:0px;
+}
+.list-group-item-secondary {
+    color: #383d41;
+    background-color: white !important;
+}
+.list-group-item-secondary:hover{
+    background-color:lightgrey !important;
+}
